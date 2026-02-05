@@ -21,7 +21,7 @@ class Solution(object):
         curr=head
         prev=None    
         while curr:
-            if seen[cur.val]>1:
+            if seen[curr.val]>1:
                 if prev:
                     prev.next=curr.next
                 else:
