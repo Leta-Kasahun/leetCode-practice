@@ -25,4 +25,16 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0933-number-of-recent-calls/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
