@@ -10,8 +10,6 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        toleft=0
-        toright=0
         if root is None:
             return 0
         leftdepth=self.maxDepth(root.left)  
