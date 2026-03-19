@@ -4,10 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        for i in nums:
-            if nums.count(i)==1:
-               return i
-           
+        index=0
+        for num in nums:
+         index^=num
+        return index  
+          
                
         
         
