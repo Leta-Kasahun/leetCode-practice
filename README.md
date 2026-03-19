@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0136-single-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
