@@ -79,4 +79,16 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0595-big-countries/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0415-add-strings/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0415-add-strings/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0415-add-strings/) | Easy |
 <!---LeetCode Topics End-->
