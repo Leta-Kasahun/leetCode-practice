@@ -75,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0260-single-number-iii/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
