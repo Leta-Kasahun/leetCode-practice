@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0146-lru-cache/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0146-lru-cache/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -91,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0415-add-strings/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
