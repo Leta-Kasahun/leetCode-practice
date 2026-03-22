@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0595-big-countries](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0595-big-countries/) | Easy |
 ## Math
 | Problem Name | Difficulty |
