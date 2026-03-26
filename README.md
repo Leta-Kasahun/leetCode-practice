@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0136-single-number](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0137-single-number-ii/) | Medium |
+| [0204-count-primes](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0204-count-primes/) | Medium |
 | [0260-single-number-iii](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0260-single-number-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0204-count-primes/) | Medium |
 | [0415-add-strings](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0415-add-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -100,4 +102,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0146-lru-cache/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
