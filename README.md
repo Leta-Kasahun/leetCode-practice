@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0204-count-primes/) | Medium |
 | [0260-single-number-iii](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0260-single-number-iii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -110,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0204-count-primes/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
