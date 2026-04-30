@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0204-count-primes/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
