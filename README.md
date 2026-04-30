@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0204-count-primes/) | Medium |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0001-two-sum/) | Easy |
 | [0146-lru-cache](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0146-lru-cache/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Leta-Kasahun/leetCode-practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
